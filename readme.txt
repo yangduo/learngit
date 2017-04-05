@@ -1,3 +1,1 @@
-Git is a good version control system;
-Git is very free software;
-yangduo is a boy;
+create a new branch is quick;
