@@ -10,6 +10,7 @@
 int main()
 {
 	printf("hello thundersoft !");
+
 	return 0;
 }
 
